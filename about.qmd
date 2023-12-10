@@ -3,3 +3,5 @@ title: "About"
 ---
 
 About this site
+
+Repositorio publico donde cualquiera puede consultar otras fuentes para satisfacer sus necesidades de aprendizaje y crecimiento personal.

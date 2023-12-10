@@ -2,6 +2,45 @@
 title: "TeoriaDavid"
 ---
 
+ [Apuntes](https://losapuntesdemajo.vercel.app/)
+
+[Curso python](http://join.replit.com/python)
+
+[IIS o Azure para apis y videos CodigoEstudiante aprender a programar](https://www.codedex.io/)
+
+[Harvard](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+
+[Proyectos prácticas](https://github.com/bradtraversy/50projects50days)
+
+[Motor videojuegos](https://godotengine.org/)
+
+[patrones de diseño](http://patterns.dev)
+
+[aprender algoritmos de busqueda](http://the-algorithms.com/es
+https://w3schools.com)
+
+[SQLBOLT para aprender sql](https://sqlbolt.com/)
+
+[ia harvard intro gratis](http://cs50.harvard.edu/ai/2023)
+
+[git comandos ](https://buff.ly/2TEOUAz)
+
+[aprender lenguajes con talleres](https://scrimba.com/)
+
+[algoritmos ](https://es.khanacademy.org/computing/computer-science/algorithms)
+
+[bootcamp react](http://midu.link/bootcamp)
+
+[exámenes Microsoft](https://learn.microsoft.com/es-es/credentials/certifications/practice-assessments-for-microsoft-certifications)
+
+[cv]( https://resume.io/r/LCKxoTxjb)
+
+[c# curso](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)
+
+[next.js](https://nextjs.org/learn)
+
+[GBS Studio](https://www.gbstudio.dev/)
+
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
